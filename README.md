@@ -1,7 +1,7 @@
 # Embedded-SQL-in-C
 The program uses Embedded SQL statements in C to access the database created using PostgreSQL
 
-Using Empedded SQL in C (ecpg), 
+Using Empedded SQL in C (ecpg),
 ·Program takes input such as the SSN of employee, project number, hours for the project, and salary for the employee.
 ·Firstly, it lists the employee’s name, employee’s department name, salary, and the number of dependents.
 ·Then for each project the employee is working, provide a list of <the project number, the project name, the name of the department manager controlling the project, the number of hours the employee is working on the project, the number of employees working on the project, the total number of hours for the project (by all employees)>.
